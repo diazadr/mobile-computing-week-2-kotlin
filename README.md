@@ -24,17 +24,18 @@ Projek ini mengimplementasikan list view dengan list of dan adapter yang terpisa
 
 
 ### **RecyclerViewPahlawan**
-<img src="https://github.com/user-attachments/assets/662e349e-7023-478e-a666-e964c3ad13fe" alt="Screenshot 7" style="height: 300px; width: auto;">
-<img src="https://github.com/user-attachments/assets/5aec4710-c432-4daf-9c69-5ab6d2cd9817" alt="Screenshot 8" style="height: 300px; width: auto;">
-<img src="https://github.com/user-attachments/assets/2d19a0eb-8c33-403d-89e2-9eee9b8eaa45" alt="Screenshot 9" style="height: 300px; width: auto;">
+Project ini mengimplementasikan recyclerview dengan kotlin parcelize, terdapat layout manager seperti menu list dan grid juga mengimplementasikan toast lalu mengimplementasikan adapter .   
+<img src="https://github.com/user-attachments/assets/096e7ac5-bd29-453c-a8fa-6fcf19adbcb5" alt="Screenshot 7" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/f1fefda6-380a-417e-8251-379b050cb9b1" alt="Screenshot 8" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/2f376c32-c1d9-4e06-9bc0-745980fc7033" alt="Screenshot 9" style="height: 300px; width: auto;">
 
 
 ### **CRUDRoomDatabase**
-<img src="https://github.com/user-attachments/assets/fecf2d81-c3e2-4f52-a012-f8a1bf33fbfc" alt="Screenshot 10" style="height: 300px; width: auto;">
-<img src="https://github.com/user-attachments/assets/90ed1ddc-e036-4eb5-b589-a543cbc465bf" alt="Screenshot 11" style="height: 300px; width: auto;">
-<img src="https://github.com/user-attachments/assets/696e5a96-e17a-4392-a9ef-3aea62eb721e" alt="Screenshot 12" style="height: 300px; width: auto;">
-<img src="https://github.com/user-attachments/assets/572e2cc6-016c-4dd7-92c4-98806e99340b" alt="Screenshot 13" style="height: 300px; width: auto;">
-<img src="https://github.com/user-attachments/assets/5f84aade-89bf-4364-a1df-570ed9fa1ed8" alt="Screenshot 14" style="height: 300px; width: auto;">
+
+<img src="https://github.com/user-attachments/assets/7b697e14-e019-40d4-bb34-5cd2f5c8b6c8" alt="Screenshot 10" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/e3441587-27c2-44da-9fae-b3631a54739e" alt="Screenshot 11" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/02f3055a-73e1-4d09-a790-fe844740630b" alt="Screenshot 12" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/a3b2ce91-bc0e-4ca8-a1ac-9f2ac280b5be" alt="Screenshot 13" style="height: 300px; width: auto;">
 
 ## **Setup**
 1. Clone the repository to your local machine.
