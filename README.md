@@ -2,13 +2,12 @@
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
-This project is created for the **Mobile Computing** course. It includes learning materials about **Kotlin in Android Studio**, focusing on fundamental concepts such as **Intents, Implementations, and RecyclerView**.
+This project is created for the **Mobile Computing** course. It includes learning materials about **Kotlin in Android Studio**, focusing on fundamental concepts s
 
 ## **Technologies Used**
 - **Android Studio**: For developing and structuring Android applications.
 - **Kotlin**: The primary programming language used for building Android apps.
-- **RecyclerView**: For handling and displaying large sets of data efficiently.
-- **Intent & Implementation**: Core Android components for navigating between activities and integrating features.
+
 
 ## **Demo**
 
@@ -19,16 +18,16 @@ Projek ini mengimplementasikan list view, dengan listOf, mutableListOf, pengimpl
 <img src="https://github.com/user-attachments/assets/935eaf5a-4e78-4b19-9de1-cdad13724ee9" alt="Screenshot 3" style="height: 300px; width: auto;">
 
 ### **DaftarMahasiswa**
-
-<img src="https://github.com/user-attachments/assets/96c570aa-610d-4cc7-900c-f0593ca0b6c5" alt="Screenshot 4" style="height: 300px; width: auto;">
-<img src="https://github.com/user-attachments/assets/49a0a574-2258-4d8b-a2b5-0077b41f7fa8" alt="Screenshot 5" style="height: 300px; width: auto;">
-<img src="https://github.com/user-attachments/assets/7e1de54b-a541-48ae-81f0-43367a36d758" alt="Screenshot 6" style="height: 300px; width: auto;">
+Projek ini mengimplementasikan list view dengan list of dan adapter yang terpisah, projek ini bertujuan untuk mengirimkan data dari halaman ke halaman lain menggunakan put extra, terdapat class, adapter, dan detail halaman yang nantinya muncul ketika diklik
+<img src="https://github.com/user-attachments/assets/020469df-eed4-4c30-91cd-985d128c4d09" alt="Screenshot 4" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/d58d121f-e003-420f-b807-18dae4a56c57" alt="Screenshot 5" style="height: 300px; width: auto;">
 
 
 ### **RecyclerViewPahlawan**
 <img src="https://github.com/user-attachments/assets/662e349e-7023-478e-a666-e964c3ad13fe" alt="Screenshot 7" style="height: 300px; width: auto;">
 <img src="https://github.com/user-attachments/assets/5aec4710-c432-4daf-9c69-5ab6d2cd9817" alt="Screenshot 8" style="height: 300px; width: auto;">
 <img src="https://github.com/user-attachments/assets/2d19a0eb-8c33-403d-89e2-9eee9b8eaa45" alt="Screenshot 9" style="height: 300px; width: auto;">
+
 
 ### **CRUDRoomDatabase**
 <img src="https://github.com/user-attachments/assets/fecf2d81-c3e2-4f52-a012-f8a1bf33fbfc" alt="Screenshot 10" style="height: 300px; width: auto;">
@@ -38,8 +37,7 @@ Projek ini mengimplementasikan list view, dengan listOf, mutableListOf, pengimpl
 <img src="https://github.com/user-attachments/assets/5f84aade-89bf-4364-a1df-570ed9fa1ed8" alt="Screenshot 14" style="height: 300px; width: auto;">
 
 ## **Setup**
-1. Clone the repository to your local machine.![1](https://github.com/user-attachments/assets/81a4dafb-9cdd-4f32-b367-50f649ec4390)
-
+1. Clone the repository to your local machine.
 2. Open the project folder in **Android Studio**.
 3. Ensure you have the necessary dependencies installed.
 4. Build and run the project on an emulator or a physical device.
@@ -58,4 +56,3 @@ Some of the logos and images used in the applications may be copyrighted. These 
 
 ## **Contributions**
 Feel free to submit issues or contribute by creating pull requests. Contributions are welcome!
-
