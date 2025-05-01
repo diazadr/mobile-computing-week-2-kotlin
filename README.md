@@ -2,7 +2,7 @@
 
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
 
-This project is created for the **Mobile Computing** course. It includes learning materials about **Kotlin in Android Studio**, focusing on fundamental concepts such as **ListView, Intents, RecyclerView, and Room Database CRUD**.
+This project is created for the **Mobile Computing** course. It includes learning materials about **Kotlin in Android Studio**, focusing on fundamental concepts such as **ListView, Intents, RecyclerView, Room Database CRUD**, and **REST API consumption**.
 
 ## **Technologies Used**
 - **Android Studio**: For developing and structuring Android applications.
@@ -11,6 +11,9 @@ This project is created for the **Mobile Computing** course. It includes learnin
 - **RecyclerView**: For efficiently displaying large data sets.
 - **Room Database**: For local data persistence using SQLite.
 - **Intent & Parcelable**: For transferring data between activities.
+- **Retrofit2**: For consuming REST APIs.
+- **Glide**: For image loading.
+- **SwipeRefreshLayout**: For pull-to-refresh UI interactions.
 
 ## **Demo**
 
@@ -42,6 +45,12 @@ This project implements a CRUD (Create, Read, Update, Delete) application using 
 <img src="https://github.com/user-attachments/assets/02f3055a-73e1-4d09-a790-fe844740630b" alt="Screenshot 12" style="height: 300px; width: auto;">
 <img src="https://github.com/user-attachments/assets/a3b2ce91-bc0e-4ca8-a1ac-9f2ac280b5be" alt="Screenshot 13" style="height: 300px; width: auto;">
 
+### **Studi Kasus 5: REST API Consumption**
+This project implements a REST API using [https://dummyjson.com/products](https://dummyjson.com/products). It demonstrates fetching JSON data using Retrofit2, displaying images with Glide, and implementing pull-to-refresh with SwipeRefreshLayout. The structure includes folders for API Client, Adapter, Model, and Service.
+
+<img src="https://github.com/user-attachments/assets/f6998f8f-809d-40d8-a9a3-962e01e820e8" alt="Screenshot 14" style="height: 300px; width: auto;">
+<img src="https://github.com/user-attachments/assets/095f5e00-4da4-4ac9-a70b-d1ae473add4e" alt="Screenshot 15" style="height: 300px; width: auto;">
+
 ## **Setup**
 1. Clone the repository to your local machine.
 2. Open the project folder in **Android Studio**.
@@ -50,7 +59,7 @@ This project implements a CRUD (Create, Read, Update, Delete) application using 
 5. APK files are provided in the repository for direct installation if needed.
 
 ## **Usage**
-1. Explore and learn the implementations of **ListView, Intents, RecyclerView, and Room CRUD operations**.
+1. Explore and learn the implementations of **ListView, Intents, RecyclerView, Room CRUD operations, and REST API integration**.
 2. Test each application using APKs or by building through Android Studio.
 3. Modify and experiment with the code to improve understanding and gain hands-on experience.
 
