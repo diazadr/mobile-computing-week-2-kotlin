@@ -48,7 +48,7 @@ This project implements a CRUD (Create, Read, Update, Delete) application using 
 ### **Studi Kasus 5: REST API Consumption**
 This project implements a REST API using [DummyJSON](https://dummyjson.com/products). It demonstrates fetching JSON data using Retrofit2, displaying images with Glide, and implementing pull-to-refresh with SwipeRefreshLayout. The structure includes folders for API Client, Adapter, Model, and Service.
 
-**Reference**: [YouTube - Kotlin Android Retrofit2 CRUD API](https://www.youtube.com/watch?v=0zS99KS17pA) by Trisna Sejati
+**Reference**: [Trisna Sejati - Penggunaan REST API Dasar di Kotlin Android Studio](https://www.youtube.com/watch?v=0zS99KS17pA)
 
 <img src="https://github.com/user-attachments/assets/f6998f8f-809d-40d8-a9a3-962e01e820e8" alt="Screenshot 14" style="height: 300px; width: auto;">
 <img src="https://github.com/user-attachments/assets/095f5e00-4da4-4ac9-a70b-d1ae473add4e" alt="Screenshot 15" style="height: 300px; width: auto;">
